@@ -1,8 +1,12 @@
-# React + Vite
+All Process of installation // For GSAP Cylinder Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ * install as it is command given below
+   1. npm create vite@latest
+   2. npm i three gsap
+   3. npm install -D tailwindcss  // this are the tailwind command 
+   4. npx tailwindcss init  // after install vist the tailwind website
+   5. npm install @react-three/drei
+   6. npm install three @types/three @react-three/fiber
+   7. npm install @react-three/postprocessing
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ---- All Done copy the code and enjoy ---
